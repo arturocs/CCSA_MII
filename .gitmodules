@@ -1,0 +1,3 @@
+[submodule "P2/Practica"]
+	path = P2/Practica
+	url = https://github.com/arturocs/CC2_airflow

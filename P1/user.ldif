@@ -1,0 +1,16 @@
+dn: cn=arturo,ou=Users,dc=openstack,dc=org
+objectClass: top
+objectClass: account
+objectClass: posixAccount
+objectClass: shadowAccount
+cn: arturo
+uid: arturo
+uidNumber: 16859
+gidNumber: 100
+homeDirectory: /home/arturo
+loginShell: /bin/bash
+gecos: arturo
+userPassword: {crypt}x
+shadowLastChange: 0
+shadowMax: 0
+shadowWarning: 0
